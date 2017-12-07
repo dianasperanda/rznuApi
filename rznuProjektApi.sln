@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rznuProjektApi", "rznuProjektApi\rznuProjektApi.csproj", "{F070281F-0257-481D-A016-FD383F7797A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rznuProjektApiTest", "rznuProjektApiTest\rznuProjektApiTest.csproj", "{79540B04-DB33-4569-B47C-6FDFEB5DA724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F070281F-0257-481D-A016-FD383F7797A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F070281F-0257-481D-A016-FD383F7797A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F070281F-0257-481D-A016-FD383F7797A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F070281F-0257-481D-A016-FD383F7797A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79540B04-DB33-4569-B47C-6FDFEB5DA724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79540B04-DB33-4569-B47C-6FDFEB5DA724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79540B04-DB33-4569-B47C-6FDFEB5DA724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79540B04-DB33-4569-B47C-6FDFEB5DA724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
